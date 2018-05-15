@@ -5,7 +5,7 @@ Javascript Functions
 Date : 03 / 05 / 2018
 Author : loveasia
 -----------------------------------------------------------------------------*/
-	var dappAddress = "n1n28qe7jh1Xz3H2b1SqCH29qGWre5hQ9qa";
+	var dappAddress = "n1gA4Jiou2rEdZMikM3quMnXui39cioFXxb";
 $(document).ready(function() {
 
 	$('.theme-login').click(function() {
