@@ -25,7 +25,7 @@ $(document).ready(function() {
 	var Transaction = require("nebulas").Transaction;
 	var Unit = require("nebulas").Unit;
 	var myneb = new Neb();
-	myneb.setRequest(new HttpRequest("https://testnet.nebulas.io"));
+	myneb.setRequest(new HttpRequest("https://mainnet.nebulas.io"));
 	var account, tx, txhash;
 
 	//==========
